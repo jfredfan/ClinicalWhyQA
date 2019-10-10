@@ -1,2 +1,5 @@
 The annotations based on the following paper have been deposited back to the n2c2 Data Upload: Community generated annotations on n2c2 (former i2b2) data, available at https://portal.dbmi.hms.harvard.edu/projects/n2c2-du/.
-Fan J. Annotating and characterizing clinical sentences with explicit why-QA cues. The 2nd Clinical Natural Language Processing Workshop. 2019 June 7, Minneapolis, USA.
+
+Fan J. Annotating and characterizing clinical sentences with explicit why-QA cues. The 2nd Clinical Natural Language Processing Workshop. 2019 June 7, Minneapolis, USA (https://www.aclweb.org/anthology/W19-1913/)
+
+The latest packet now includes a SQuAD 2.0 compatible JSON file.
